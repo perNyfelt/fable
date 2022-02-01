@@ -17,3 +17,8 @@ Makefile
 ^.github$
 ^\.lintr$
 ^CRAN-RELEASE$
+^pom.xml$
+^target$
+^buildInVagrant$
+^Vagrantfile$
+^vagrantpom.xml$
